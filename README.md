@@ -1,16 +1,13 @@
-### Leadership 501
+### Course Title
 
-### Strategic Leadership
+Course Author: 
 
-Course Author: Dr. Douglas Atha, Stream Director and Faculty Member, TWU MA Leadership
-
-Instructional Designer: Ken Monroe, MA
-
+Instructional Designer: 
 ### Course Description
 
 
 
-Expected Launch: May 2018
+Expected Launch: 
 
 
 
