@@ -1,6 +1,4 @@
-### Leadership 501
-
-### Strategic Leadership
+### Course Title
 
 Course Description
 
@@ -10,8 +8,8 @@ Assessment
 
 | Item | Value |
 | :--- | :--- |
-| Blog Posts | 20% |
-| Assignment 1 | 15% |
+| Item 1 | % |
+| Item 2 | % |
 |  |  |
 
 Schedule
