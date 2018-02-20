@@ -1,5 +1,5 @@
 ---
-post_title: 'Unit 1 Learning Activities'
+post_title: 'Unit 1'
 layout: page
 published: true
 ---
