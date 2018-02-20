@@ -1,5 +1,5 @@
 ---
-post_title: 'Notes'
+post_title: 'Unit 2 Notes'
 layout: page
 published: true
 ---
