@@ -3,196 +3,130 @@ post_title: 'Unit 1'
 layout: page
 published: true
 ---
-<h1>Unit 1: <strong>TITLE</strong></h1>
-<h2>Overview</h2>
-Welcome to COURSE!  In this first unit, we begin the course by…
-<h2>Topics</h2>
-Unit 1 is divided into 3 topics:
+### Unit 1  
+##### Overview
 
+Welcome to MNGT 1111!  In this first unit, we begin the course by…
+```
+Here is where we want to hook our students!  Consider what main ideas are in the unit, questions students may have, and  how these apply to practice or the bigger picture.  We also may want to include certain tasks, mentioning some readings or assignments.
+The important thing is to gain students attention and interest so they are motivated throughout the unit.
+```
+
+##### Topics
+Unit 1 is divided into __ topics:
 Topic 1: 
-
 Topic 2: 
+Topic 3: 
 
-Topic 3: 
-
-<h2>Learning Outcomes</h2>
+##### Learning Outcomes
 When you have completed this unit you should be able to:
-<ul>
- 	<li>Outcome 1</li>
- 	<li>Outcome 2</li>
- 	<li>Outcome 3</li>
-</ul>
-<h2>Activity Checklist</h2>
-Here is a blended checklist of suggested and mandatory learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
-<table>
-<tbody>
-<tr>
-<td width="33"></td>
-<td width="485"><strong>Activities</strong></td>
-</tr>
-<tr>
-<td width="33"></td>
-<td width="485">Activity 1:</td>
-</tr>
-<tr>
-<td width="33"></td>
-<td width="485">Activity 2:</td>
-</tr>
-<tr>
-<td width="33"></td>
-<td width="485">Activity 3:</td>
-</tr>
-<tr>
-<td width="33"></td>
-<td width="485">Activity 4:</td>
-</tr>
-<tr>
-<td width="33"></td>
-<td width="485">Activity 5:</td>
-</tr>
-<tr>
-<td width="33"></td>
-<td width="485">Assignment 1:</td>
-</tr>
-</tbody>
-</table>
-<strong> </strong>Resources
+* Describe…
+* Contrast…
+* Analyze…
+* Determine…
 
-The following are resources you will need to complete this unit.
-<ul>
- 	<li>Textbook</li>
- 	<li>Selected online articles and websites. (See Learning Activities and References section)</li>
-</ul>
-<table>
-<tbody>
-<tr>
-<td width="518">Note that you will be asked to search TWU Library’s databases to find some of the articles. For information on how to access these resources, refer to the Course Guide.</td>
-</tr>
-</tbody>
-</table>
-<h2>Topic 1:</h2>
-<strong>Introduction</strong>
+##### Activity Checklist
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work. 
 
+|Activities| | |
+|----|----|----|
+| Activity 1:| | |
+| Activity 2:| | |
+| Activity 3:| | |
+| Activity 4:| | |
+| Assignment 1:| | |
+
+##### Assessment
+Here is the assessment for Unit 1. 
+Assignment 1: …
+%
+
+
+## Topic 1: 
+### Introduction
 We begin Unit 1…
-
 [content]
 
-&nbsp;
-<h3>Learning Activities</h3>
-<h4>Activity 1:</h4>
-<strong>Introduction</strong>
-
-<strong>…</strong>
-
-<strong>Instructions</strong>
-
+### Learning Activities
+##### Activity 1: 
+Introduction
+…
+Instructions
 View the following resources about …
-
 Watch the following videos that illustrate…
 
-&nbsp;
-<table>
-<tbody>
-<tr>
-<td width="566">Questions to Consider
-
+##### Questions to Consider
 After completing the activities above, consider the following questions:
 
-·
+* Q1
+* Q2
 
-&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<h4>Activity 2:</h4>
-<strong>Introduction</strong>
+#####Activity 2: 
+Introduction
+…
+Instructions
 
-<strong>…</strong>
-
-<strong>Instructions</strong>
-
-Conduct a webquest to find out…
-
-&nbsp;
-<h2>Topic 2:</h2>
-<strong>Introduction</strong>
-
+## Topic 2: 
+### Introduction
 …
 
-&nbsp;
-<h3>Learning Activities</h3>
-<h4>Activity 3:</h4>
-<strong>Introduction</strong>
+### Learning Activities
+##### Activity 3: 
+Introduction
+The following case study reveals… 
+Mrs. Jones…
+ 
 
-The following case study reveals…
-<table>
-<tbody>
-<tr>
-<td width="566"><em>Mrs. Jones…</em>
 
-<em> </em>
 
-<em> </em>
-
-<em> </em></td>
-</tr>
-</tbody>
-</table>
-&nbsp;
-
-<strong><em>Activity 4: Practice Quiz </em></strong><em>(ungraded)</em>
-
-<strong>Introduction</strong>
-
-In order to review some of the major concepts from the text, take the following unmarked quiz.  Although you will not be evaluated on these terms, they will assist you in the assignments for this course.
-
-<strong>Introduction</strong>
-
+##### Activity 4: Practice Quiz (ungraded)
+Introduction
+In order to review some of the major concepts from the text, take the following unmarked quiz.  Although you will not be evaluated on these terms, they will assist you in the assignments for this course.
+Introduction
 Match the following terms to their correct definition.
 
-&nbsp;
-
-<strong><em>Activity 5:</em></strong>
-
+##### Activity 5:
 Other activities include:
-<ul>
- 	<li><strong>Role play</strong></li>
- 	<li><strong>Games</strong></li>
- 	<li><strong>Simulations</strong></li>
- 	<li><strong>Problems / Debates</strong></li>
- 	<li><strong>Current Events</strong></li>
- 	<li><strong>Graphic Organizers</strong></li>
- 	<li><strong>Short-write </strong><em>(ex. Muddy/clear point)</em></li>
- 	<li><strong>Interviews </strong>(friends/family)</li>
- 	<li><strong>Field Trip </strong>(do something in the community /workplace)</li>
- 	<li><strong>Survey / poll</strong></li>
- 	<li><strong>Social media</strong></li>
- 	<li><strong>Experiments</strong></li>
- 	<li><strong>Textbook online resources </strong>(flashcards, quizzes, etc.)</li>
-</ul>
-<h2>Assessment</h2>
-<h3>Assignment 1:</h3>
-After completing this unit, including the learning activities, you are asked to…
+* Role play
+* Games
+* Simulations
+* Problems / Debates
+* Current Events
+* Graphic Organizers
+* Short-write  (ex. Muddy/clear point)
+* Interviews (friends/family)
+* Field Trip (do something in the community /workplace) 
+* Survey / poll
+* Social media
+* Experiments
+* Textbook online resources (flashcards, quizzes, etc.)
 
+
+## Assessment
+### Assignment 1: 
+After completing this unit, including the learning activities, you are asked to…
 For more details about this assignment, including the grading criteria, please refer to the Assignment page.
-<h2>Unit 1 Summary (optional)</h2>
+
+## Unit 1 Summary
 In this first unit, you have had the opportunity to learn about…
 
-&nbsp;
-<h2>Checking your Learning</h2>
-Before you move on to the next unit, you may want to check to make sure that you are able to:
-<table>
-<tbody>
-<tr>
-<td width="45"></td>
-<td width="472"><strong>Learning Outcomes</strong></td>
-</tr>
-<tr>
-<td width="45"></td>
-<td width="472">·</td>
-</tr>
-</tbody>
-</table>
-<em>(or say)</em> Use the Learning Outcomes from the beginning of the unit as a checklist of understanding before students move to the next unit.
-<h2>References</h2>
+
+## Checking your Learning
+Before you move on to the next unit, you may want to check to make sure that you are able to: 
+
+### Learning Outcomes
+
+* differentiate between a comparative perspective of the family and a global perspective;
+* discuss the benefits as well as the limitations of a comparative approach to the study of the family;
+* describe the main characteristics of the contemporary Western family in terms of structure and relations;
+* differentiate between the concepts of ‘family’ and ‘kinship;’
+* differentiate between traditional kinship structure in non-industrial societies with those of Western, mainstream society;
+* compare the roles and relations of Western contemporary families with those of families in non-industrial countries;
+
+
+## Resources
+* 
+* 
+
+###### Note that you will be asked to search TWU Library’s databases to find some of the articles. For information on how to access these resources, refer to the Course Guide.
 
