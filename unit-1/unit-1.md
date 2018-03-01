@@ -14,9 +14,9 @@ The important thing is to gain students attention and interest so they are motiv
 
 ##### Topics
 Unit 1 is divided into __ topics:
-Topic 1: 
-Topic 2: 
-Topic 3: 
+Topic 1:
+Topic 2:
+Topic 3:
 
 ##### Learning Outcomes
 When you have completed this unit you should be able to:
@@ -26,7 +26,20 @@ When you have completed this unit you should be able to:
 * Determine…
 
 ##### Activity Checklist
-Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work. 
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+```
+Learning Activities can include the following:
+-	Readings (text, article)
+-	Videos (youtube, library, or our media team can create videos, conduct interviews, etc.)
+-	Simulations
+-	Websites (to explore, or webquests to find answers)
+-	Unmarked quizzes
+-	Case studies
+-	Interviews (ex. with friends/family/coworkers)
+-	Reflection/study journal/questions to consider
+
+These are usually non-graded, and can be optional for students, however they are designed to help students learn the material and prepare for the assignments.
+```
 
 |Activities| | |
 |----|----|----|
@@ -37,18 +50,18 @@ Here is a checklist of learning activities you will benefit from in completing t
 | Assignment 1:| | |
 
 ##### Assessment
-Here is the assessment for Unit 1. 
+Here is the assessment for Unit 1.
 Assignment 1: …
 %
 
 
-## Topic 1: 
+## Topic 1:
 ### Introduction
 We begin Unit 1…
 [content]
 
 ### Learning Activities
-##### Activity 1: 
+##### Activity 1:
 Introduction
 …
 Instructions
@@ -61,21 +74,21 @@ After completing the activities above, consider the following questions:
 * Q1
 * Q2
 
-#####Activity 2: 
+#####Activity 2:
 Introduction
 …
 Instructions
 
-## Topic 2: 
+## Topic 2:
 ### Introduction
 …
 
 ### Learning Activities
-##### Activity 3: 
+##### Activity 3:
 Introduction
-The following case study reveals… 
+The following case study reveals…
 Mrs. Jones…
- 
+
 
 
 
@@ -95,7 +108,7 @@ Other activities include:
 * Graphic Organizers
 * Short-write  (ex. Muddy/clear point)
 * Interviews (friends/family)
-* Field Trip (do something in the community /workplace) 
+* Field Trip (do something in the community /workplace)
 * Survey / poll
 * Social media
 * Experiments
@@ -103,7 +116,7 @@ Other activities include:
 
 
 ## Assessment
-### Assignment 1: 
+### Assignment 1:
 After completing this unit, including the learning activities, you are asked to…
 For more details about this assignment, including the grading criteria, please refer to the Assignment page.
 
@@ -112,7 +125,7 @@ In this first unit, you have had the opportunity to learn about…
 
 
 ## Checking your Learning
-Before you move on to the next unit, you may want to check to make sure that you are able to: 
+Before you move on to the next unit, you may want to check to make sure that you are able to:
 
 ### Learning Outcomes
 
@@ -125,8 +138,7 @@ Before you move on to the next unit, you may want to check to make sure that you
 
 
 ## Resources
-* 
-* 
+*
+*
 
 ###### Note that you will be asked to search TWU Library’s databases to find some of the articles. For information on how to access these resources, refer to the Course Guide.
-
