@@ -27,6 +27,7 @@ When you have completed this unit you should be able to:
 
 ##### Activity Checklist
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+
 ```
 Learning Activities can include the following:
 -	Readings (text, article)
