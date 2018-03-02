@@ -3,22 +3,18 @@ post_title: 'Unit 7'
 layout: page
 published: true
 ---
----
-post_title: 'Unit 1'
-layout: page
-published: true
----
-### Unit 1  
+
+### Unit 7  
 ##### Overview
 
-Welcome to COURSE!  In this first unit, we begin the course by…
+Welcome to Unit 7!  In this first unit, we begin the course by…
 ```
 Here is where we want to hook our students!  Consider what main ideas are in the unit, questions students may have, and  how these apply to practice or the bigger picture.  We also may want to include certain tasks, mentioning some readings or assignments.
 The important thing is to gain students attention and interest so they are motivated throughout the unit.
 ```
 
 ##### Topics
-Unit 1 is divided into __ topics:
+Unit 7 is divided into __ topics:
 * Topic 1:
 * Topic 2:
 * Topic 3:
@@ -56,7 +52,7 @@ These are usually non-graded, and can be optional for students, however they are
 | Assignment 1:| | |
 
 ##### Assessment
-Here is the assessment for Unit 1.
+Here is the assessment for Unit 7.
 Assignment 1: …
 %
 ```

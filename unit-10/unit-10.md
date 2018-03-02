@@ -1,14 +1,14 @@
 ---
+post_title: 'Unit 100'
+layout: page
+published: true
+---
+---
 post_title: 'Unit 10'
 layout: page
 published: true
 ---
----
-post_title: 'Unit 1'
-layout: page
-published: true
----
-### Unit 1  
+### Unit 10  
 ##### Overview
 
 Welcome to COURSE!  In this first unit, we begin the course by…
@@ -18,7 +18,7 @@ The important thing is to gain students attention and interest so they are motiv
 ```
 
 ##### Topics
-Unit 1 is divided into __ topics:
+Unit 10 is divided into __ topics:
 * Topic 1:
 * Topic 2:
 * Topic 3:
@@ -56,7 +56,7 @@ These are usually non-graded, and can be optional for students, however they are
 | Assignment 1:| | |
 
 ##### Assessment
-Here is the assessment for Unit 1.
+Here is the assessment for Unit 10.
 Assignment 1: …
 %
 ```
@@ -65,7 +65,7 @@ If there are a number of learning activities above, it may be helpful to split u
 
 ## Topic 1:
 ### Introduction
-We begin Unit 1…
+We begin Unit 10…
 ```
 Topic content can be 1-2 paragraphs or several pages, depending of course on the topic!  Consider using graphics, charts, or other images to convey information and appeal to visual learners.
 ```
@@ -181,7 +181,7 @@ Many of the more creative assignments can be combined with a reflective paper to
 After completing this unit, including the learning activities, you are asked to…
 For more details about this assignment, including the grading criteria, please refer to the Assignment page.
 
-## Unit 1 Summary
+## Unit 10 Summary
 ```
 Remind students of a few key points and how they apply to a greater context.  Perhaps also prepare them for what is in the next unit.
 ```

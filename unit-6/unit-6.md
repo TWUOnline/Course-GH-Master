@@ -3,12 +3,8 @@ post_title: 'Unit 6'
 layout: page
 published: true
 ---
----
-post_title: 'Unit 1'
-layout: page
-published: true
----
-### Unit 1  
+
+### Unit 6  
 ##### Overview
 
 Welcome to COURSE!  In this first unit, we begin the course by…
@@ -18,7 +14,7 @@ The important thing is to gain students attention and interest so they are motiv
 ```
 
 ##### Topics
-Unit 1 is divided into __ topics:
+Unit 6 is divided into __ topics:
 * Topic 1:
 * Topic 2:
 * Topic 3:
@@ -56,7 +52,7 @@ These are usually non-graded, and can be optional for students, however they are
 | Assignment 1:| | |
 
 ##### Assessment
-Here is the assessment for Unit 1.
+Here is the assessment for Unit 6.
 Assignment 1: …
 %
 ```
