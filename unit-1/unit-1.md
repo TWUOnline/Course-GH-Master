@@ -54,19 +54,40 @@ These are usually non-graded, and can be optional for students, however they are
 Here is the assessment for Unit 1.
 Assignment 1: …
 %
-
+```
+If there are a number of learning activities above, it may be helpful to split up these sections. Otherwise, one list is fine.
+```
 
 ## Topic 1:
 ### Introduction
 We begin Unit 1…
+```
+Topic content can be 1-2 paragraphs or several pages, depending of course on the topic!  Consider using graphics, charts, or other images to convey information and appeal to visual learners.
+```
+
 [content]
+
+```
+Note that in developing the course, you may want to just focus on the content first, and then address possible learning activities and questions later on.
+```
 
 ### Learning Activities
 ##### Activity 1:
 Introduction
 …
+```
+Optional to have a separate Introduction and Instructions section or to combine them.  The important thing is to introduce the activity, answer questions students may have, and relate the activities to the topics or assessments.
+```
+
 Instructions
 View the following resources about …
+
+```
+Below I’ve listed some examples of learning activities.  They should always have a short introduction & Instructions, as well as some way to synthesize/reflect on the information presented (ex. Questions to Consider)
+There can be just one activity per topic, or have a couple at the end of the unit.
+Options for the first activity include an ice-breaker, or type of sharing/reflective activity that connects their past experiences to course content.
+```
+
 Watch the following videos that illustrate…
 
 ##### Questions to Consider
@@ -74,6 +95,10 @@ After completing the activities above, consider the following questions:
 
 * Q1
 * Q2
+```
+This feature gives students an opportunity to reflect on readings and make connections, encouraging higher order thinking.
+```
+
 
 #####Activity 2:
 Introduction
@@ -86,6 +111,10 @@ Instructions
 
 ### Learning Activities
 ##### Activity 3:
+```
+Case studies are great application activities.  Consider the lesson content and how it is applied in a ‘real world’ situation.
+```
+
 Introduction
 The following case study reveals…
 Mrs. Jones…
@@ -96,11 +125,21 @@ Mrs. Jones…
 ##### Activity 4: Practice Quiz (ungraded)
 Introduction
 In order to review some of the major concepts from the text, take the following unmarked quiz.  Although you will not be evaluated on these terms, they will assist you in the assignments for this course.
+
+```
+If there are exams or quizzes in the course, it’s a good idea for students to practice and find out what needs further study.  
+Quizzes can be multiple choice, matching, true-false, or short answer.
+```
+
 Introduction
 Match the following terms to their correct definition.
 
 ##### Activity 5:
 Other activities include:
+```
+In each unit, consider having 2-3 recommended activities, and perhaps 1-3 optional activities.
+```
+
 * Role play
 * Games
 * Simulations
@@ -117,15 +156,38 @@ Other activities include:
 
 
 ## Assessment
+```
+Consider different types of assessment:
+-	Essays (including draft essays)
+-	Quizzes
+-	Presentations (video, powerpoint)
+-	Discussions (or reflection of discussions for web)
+-	Journals / Reflective papers
+-	Blogs
+-	E-Portfolio
+-	Wiki
+-	Social Media / Interviews / Surveys (research/interactions outside the classroom)
+-	Visual Data (infographics, graphic organizer)
+Many of the more creative assignments can be combined with a reflective paper to meet all learning outcomes.
+```
+
 ### Assignment 1:
 After completing this unit, including the learning activities, you are asked to…
 For more details about this assignment, including the grading criteria, please refer to the Assignment page.
 
 ## Unit 1 Summary
+```
+Remind students of a few key points and how they apply to a greater context.  Perhaps also prepare them for what is in the next unit.
+```
+
 In this first unit, you have had the opportunity to learn about…
 
 
 ## Checking your Learning
+```
+Use the Learning Outcomes from the beginning of the unit as a checklist of understanding before students move to the next unit.
+```
+
 Before you move on to the next unit, you may want to check to make sure that you are able to:
 
 ### Learning Outcomes
