@@ -158,16 +158,17 @@ In each unit, consider having 2-3 recommended activities, and perhaps 1-3 option
 ## Assessment
 ```
 Consider different types of assessment:
--	Essays (including draft essays)
--	Quizzes
--	Presentations (video, powerpoint)
--	Discussions (or reflection of discussions for web)
--	Journals / Reflective papers
--	Blogs
--	E-Portfolio
--	Wiki
--	Social Media / Interviews / Surveys (research/interactions outside the classroom)
--	Visual Data (infographics, graphic organizer)
+* Essays (including draft essays)
+* Quizzes
+* Presentations (video, powerpoint)
+* Discussions (or reflection of discussions for web)
+* Journals / Reflective papers
+* Blogs
+* E-Portfolio
+* Wiki
+* Social Media / Interviews / Surveys (research/interactions outside the classroom)
+* Visual Data (infographics, graphic organizer)
+
 Many of the more creative assignments can be combined with a reflective paper to meet all learning outcomes.
 ```
 
