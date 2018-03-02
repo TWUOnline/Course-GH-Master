@@ -30,14 +30,14 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 ```
 Learning Activities can include the following:
--	Readings (text, article)
--	Videos (youtube, library, or our media team can create videos, conduct interviews, etc.)
--	Simulations
--	Websites (to explore, or webquests to find answers)
--	Unmarked quizzes
--	Case studies
--	Interviews (ex. with friends/family/coworkers)
--	Reflection/study journal/questions to consider
+* Readings (text, article)
+* Videos (youtube, library, or our media team can create videos, conduct interviews, etc.)
+* Simulations
+* Websites (to explore, or webquests to find answers)
+* Unmarked quizzes
+* Case studies
+* Interviews (ex. with friends/family/coworkers)
+* Reflection/study journal/questions to consider
 
 These are usually non-graded, and can be optional for students, however they are designed to help students learn the material and prepare for the assignments.
 ```
