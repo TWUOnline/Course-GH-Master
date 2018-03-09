@@ -3,11 +3,7 @@ post_title: 'Unit 100'
 layout: page
 published: true
 ---
----
-post_title: 'Unit 10'
-layout: page
-published: true
----
+
 ### Unit 10  
 ##### Overview
 
