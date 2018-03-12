@@ -6,7 +6,7 @@ published: true
 ### Unit 1  
 ##### Overview
 
-Welcome to COURSE!  In this first unit, we begin the course by…
+Welcome to [COURSE]!  In this first unit, we begin the course by…
 ```
 Here is where we want to hook our students!  Consider what main ideas are in the unit, questions students may have, and  how these apply to practice or the bigger picture.  We also may want to include certain tasks, mentioning some readings or assignments.
 The important thing is to gain students attention and interest so they are motivated throughout the unit.
