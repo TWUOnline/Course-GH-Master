@@ -60,7 +60,7 @@ After completing the activities above, consider the following questions:
 * Q1
 * Q2
 
-#####Activity 2:
+##### Activity 2:
 Introduction
 …
 Instructions
