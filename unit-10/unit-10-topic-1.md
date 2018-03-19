@@ -9,7 +9,7 @@ We begin Unit 10…
 [content]
 
 ### Learning Activities
-##### Activity 1:
+##### Activity 10.1:
 Introduction
 …
 
@@ -24,7 +24,7 @@ After completing the activities above, consider the following questions:
 * Q1
 * Q2
 
-##### Activity 2:
+##### Activity 10.2:
 Introduction
 …
 Instructions
