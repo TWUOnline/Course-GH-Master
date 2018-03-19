@@ -11,9 +11,9 @@ Welcome to COURSE!  In this first unit, we begin the course by…
 
 ##### Topics
 Unit 10 is divided into __ topics:
-* Topic 1:
-* Topic 2:
-* Topic 3:
+* Topic 10.1:
+* Topic 10.2:
+* Topic 10.3:
 
 ##### Learning Outcomes
 When you have completed this unit you should be able to:
