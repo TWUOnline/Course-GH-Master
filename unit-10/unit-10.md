@@ -39,72 +39,11 @@ Assignment 1: …
 %
 
 ## Topic 1:
-### Introduction
-We begin Unit 10…
+See Topic 1 Page.
 
-[content]
-
-### Learning Activities
-##### Activity 1:
-Introduction
-…
-
-Instructions
-View the following resources about …
-
-Watch the following videos that illustrate…
-
-##### Questions to Consider
-After completing the activities above, consider the following questions:
-
-* Q1
-* Q2
-
-##### Activity 2:
-Introduction
-…
-Instructions
 
 ## Topic 2:
-### Introduction
-…
-
-### Learning Activities
-##### Activity 3:
-
-Introduction
-The following case study reveals…
-Mrs. Jones…
-
-
-
-
-##### Activity 4: Practice Quiz (ungraded)
-Introduction
-In order to review some of the major concepts from the text, take the following unmarked quiz.  Although you will not be evaluated on these terms, they will assist you in the assignments for this course.
-
-
-
-Introduction
-Match the following terms to their correct definition.
-
-##### Activity 5:
-Other activities include:
-
-
-* Role play
-* Games
-* Simulations
-* Problems / Debates
-* Current Events
-* Graphic Organizers
-* Short-write  (ex. Muddy/clear point)
-* Interviews (friends/family)
-* Field Trip (do something in the community /workplace)
-* Survey / poll
-* Social media
-* Experiments
-* Textbook online resources (flashcards, quizzes, etc.)
+See Topic 2 Page.
 
 
 ## Assessment
