@@ -27,10 +27,11 @@ Here is a checklist of learning activities you will benefit from in completing t
 
 |Activities| | |
 |----|----|----|
-| Activity 1:| | |
-| Activity 2:| | |
-| Activity 3:| | |
-| Activity 4:| | |
+| Activity 10.1:| | |
+| Activity 10.2:| | |
+| Activity 10.3:| | |
+| Activity 10.4:| | |
+| Activity 10.5:| | |
 | Assignment 1:| | |
 
 ##### Assessment
@@ -38,11 +39,11 @@ Here is the assessment for Unit 10.
 Assignment 1: …
 %
 
-## Topic 1:
+## Topic 10.1:
 See Topic 1 Page.
 
 
-## Topic 2:
+## Topic 10.2:
 See Topic 2 Page.
 
 
