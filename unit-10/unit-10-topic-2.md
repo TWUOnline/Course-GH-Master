@@ -7,7 +7,7 @@ published: true
 …
 
 ### Learning Activities
-##### Activity 3:
+##### Activity 10.3:
 
 Introduction
 The following case study reveals…
@@ -16,7 +16,7 @@ Mrs. Jones…
 
 
 
-##### Activity 4: Practice Quiz (ungraded)
+##### Activity 10.4: Practice Quiz (ungraded)
 Introduction
 In order to review some of the major concepts from the text, take the following unmarked quiz.  Although you will not be evaluated on these terms, they will assist you in the assignments for this course.
 
@@ -25,7 +25,7 @@ In order to review some of the major concepts from the text, take the following 
 Introduction
 Match the following terms to their correct definition.
 
-##### Activity 5:
+##### Activity 10.5:
 Other activities include:
 
 
