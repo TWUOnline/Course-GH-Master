@@ -4,17 +4,16 @@ layout: page
 published: true
 ---
 
-### Unit 5
+### Unit 5  
 ##### Overview
 
 Welcome to COURSE!  In this first unit, we begin the course by…
 
-
 ##### Topics
 Unit 5 is divided into __ topics:
-* Topic 1:
-* Topic 2:
-* Topic 3:
+* Topic 5.1:
+* Topic 5.2:
+* Topic 5.3:
 
 ##### Learning Outcomes
 When you have completed this unit you should be able to:
@@ -26,13 +25,13 @@ When you have completed this unit you should be able to:
 ##### Activity Checklist
 Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
 
-
 |Activities| | |
 |----|----|----|
-| Activity 1:| | |
-| Activity 2:| | |
-| Activity 3:| | |
-| Activity 4:| | |
+| Activity 5.1:| | |
+| Activity 5.2:| | |
+| Activity 5.3:| | |
+| Activity 5.4:| | |
+| Activity 5.5:| | |
 | Assignment 1:| | |
 
 ##### Assessment
@@ -40,78 +39,16 @@ Here is the assessment for Unit 5.
 Assignment 1: …
 %
 
-## Topic 1:
-### Introduction
-We begin Unit 5…
-
-[content]
-
-### Learning Activities
-##### Activity 1:
-Introduction
-…
-
-Instructions
-View the following resources about …
+## Topic 5.1:
+See Topic 1 Page.
 
 
-
-Watch the following videos that illustrate…
-
-##### Questions to Consider
-After completing the activities above, consider the following questions:
-
-* Q1
-* Q2
-
-
-##### Activity 2:
-Introduction
-…
-Instructions
-
-## Topic 2:
-### Introduction
-…
-
-### Learning Activities
-##### Activity 3:
-
-
-Introduction
-The following case study reveals…
-Mrs. Jones…
-
-
-
-
-##### Activity 4: Practice Quiz (ungraded)
-Introduction
-In order to review some of the major concepts from the text, take the following unmarked quiz.  Although you will not be evaluated on these terms, they will assist you in the assignments for this course.
-
-
-Introduction
-Match the following terms to their correct definition.
-
-##### Activity 5:
-Other activities include:
-
-* Role play
-* Games
-* Simulations
-* Problems / Debates
-* Current Events
-* Graphic Organizers
-* Short-write  (ex. Muddy/clear point)
-* Interviews (friends/family)
-* Field Trip (do something in the community /workplace)
-* Survey / poll
-* Social media
-* Experiments
-* Textbook online resources (flashcards, quizzes, etc.)
+## Topic 5.2:
+See Topic 2 Page.
 
 
 ## Assessment
+
 
 ### Assignment 1:
 After completing this unit, including the learning activities, you are asked to…
