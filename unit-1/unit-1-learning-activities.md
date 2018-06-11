@@ -9,7 +9,4 @@ published: true
 
 ##### Learning Activity 1.2
 
-##### 
-
-
-
+#####
